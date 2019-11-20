@@ -6,7 +6,7 @@ import random
 
 
 
-USER_AGENTS = [gent.strip() for gent in open("/Users/mehmetserifpasa/Desktop/python-denemeler/brsurdp/files/user-agents.txt")]
+USER_AGENTS = [gent.strip() for gent in open(".....user-agents.txt")]
 url = sys.argv[1]
 
 class color:
